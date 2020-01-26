@@ -38,7 +38,7 @@ public class Handler {
 
     public int getHeight(){
 
-        return getDisplayScreen().getCanvas().getWidth();
+        return getDisplayScreen().getCanvas().getHeight();
     }
 
     public GameSetUp getGameProperties() {
