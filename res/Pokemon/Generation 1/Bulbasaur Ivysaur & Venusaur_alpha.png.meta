@@ -1,0 +1,5603 @@
+fileFormatVersion: 2
+guid: 25c4862632651154d820ffdd1b6c22ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4108882795493409387
+    second: Bulbasaur Ivysaur & Venusaur_alpha_0
+  - first:
+      213: -5980190942646717068
+    second: Bulbasaur Ivysaur & Venusaur_alpha_0
+  - first:
+      213: 5746088754263599471
+    second: Bulbasaur Ivysaur & Venusaur_alpha_1
+  - first:
+      213: -3466858473379718539
+    second: Bulbasaur Ivysaur & Venusaur_alpha_2
+  - first:
+      213: -4343429197353872792
+    second: Bulbasaur Ivysaur & Venusaur_alpha_3
+  - first:
+      213: 8502396613572399863
+    second: Bulbasaur Ivysaur & Venusaur_alpha_4
+  - first:
+      213: -4269668227006165128
+    second: Bulbasaur Ivysaur & Venusaur_alpha_5
+  - first:
+      213: -2036407186936689818
+    second: Bulbasaur Ivysaur & Venusaur_alpha_6
+  - first:
+      213: 6175505076748741472
+    second: Bulbasaur Ivysaur & Venusaur_alpha_7
+  - first:
+      213: 772478006807232945
+    second: Bulbasaur Ivysaur & Venusaur_alpha_8
+  - first:
+      213: 3892846232542611422
+    second: Bulbasaur Ivysaur & Venusaur_alpha_9
+  - first:
+      213: -1151330654652829922
+    second: Bulbasaur Ivysaur & Venusaur_alpha_10
+  - first:
+      213: -7336495485686206874
+    second: Bulbasaur Ivysaur & Venusaur_alpha_11
+  - first:
+      213: -7396173304208543075
+    second: Bulbasaur Ivysaur & Venusaur_alpha_12
+  - first:
+      213: -6120034043861388593
+    second: Bulbasaur Ivysaur & Venusaur_alpha_13
+  - first:
+      213: -264945740150265770
+    second: Bulbasaur Ivysaur & Venusaur_alpha_14
+  - first:
+      213: -1229412968940498789
+    second: Bulbasaur Ivysaur & Venusaur_alpha_15
+  - first:
+      213: -5686878453902561137
+    second: Bulbasaur Ivysaur & Venusaur_alpha_16
+  - first:
+      213: -3544154404112784314
+    second: Bulbasaur Ivysaur & Venusaur_alpha_17
+  - first:
+      213: 170610247877352334
+    second: Bulbasaur Ivysaur & Venusaur_alpha_18
+  - first:
+      213: 7071243646912254160
+    second: Bulbasaur Ivysaur & Venusaur_alpha_19
+  - first:
+      213: -6391231691889051774
+    second: Bulbasaur Ivysaur & Venusaur_alpha_20
+  - first:
+      213: -6137141675941328245
+    second: Bulbasaur Ivysaur & Venusaur_alpha_21
+  - first:
+      213: 6917865091313568047
+    second: Bulbasaur Ivysaur & Venusaur_alpha_22
+  - first:
+      213: 9189889696522083427
+    second: Bulbasaur Ivysaur & Venusaur_alpha_23
+  - first:
+      213: 4882872815605996671
+    second: Bulbasaur Ivysaur & Venusaur_alpha_24
+  - first:
+      213: 1011378665306569027
+    second: Bulbasaur Ivysaur & Venusaur_alpha_25
+  - first:
+      213: 7032651093658053076
+    second: Bulbasaur Ivysaur & Venusaur_alpha_26
+  - first:
+      213: -4846395094205219678
+    second: Bulbasaur Ivysaur & Venusaur_alpha_27
+  - first:
+      213: 1679952620685501985
+    second: Bulbasaur Ivysaur & Venusaur_alpha_28
+  - first:
+      213: 2471579679820670123
+    second: Bulbasaur Ivysaur & Venusaur_alpha_29
+  - first:
+      213: -2463184251602816091
+    second: Bulbasaur Ivysaur & Venusaur_alpha_30
+  - first:
+      213: -2396234906211775978
+    second: Bulbasaur Ivysaur & Venusaur_alpha_31
+  - first:
+      213: 6518268296004318929
+    second: Bulbasaur Ivysaur & Venusaur_alpha_32
+  - first:
+      213: 5185523488924419968
+    second: Bulbasaur Ivysaur & Venusaur_alpha_33
+  - first:
+      213: 5113219182302028117
+    second: Bulbasaur Ivysaur & Venusaur_alpha_34
+  - first:
+      213: 6286148627706210424
+    second: Bulbasaur Ivysaur & Venusaur_alpha_35
+  - first:
+      213: 8304077887176991704
+    second: Bulbasaur Ivysaur & Venusaur_alpha_36
+  - first:
+      213: 7211948186931920671
+    second: Bulbasaur Ivysaur & Venusaur_alpha_37
+  - first:
+      213: 2544586817276434877
+    second: Bulbasaur Ivysaur & Venusaur_alpha_38
+  - first:
+      213: 2606350030168263041
+    second: Bulbasaur Ivysaur & Venusaur_alpha_39
+  - first:
+      213: -5513251812275174627
+    second: Bulbasaur Ivysaur & Venusaur_alpha_40
+  - first:
+      213: 2980873652896684049
+    second: Bulbasaur Ivysaur & Venusaur_alpha_41
+  - first:
+      213: 2655749043422382951
+    second: Bulbasaur Ivysaur & Venusaur_alpha_42
+  - first:
+      213: -8214152304699185129
+    second: Bulbasaur Ivysaur & Venusaur_alpha_43
+  - first:
+      213: -7985378335204486398
+    second: Bulbasaur Ivysaur & Venusaur_alpha_44
+  - first:
+      213: -910088633605163280
+    second: Bulbasaur Ivysaur & Venusaur_alpha_45
+  - first:
+      213: 5359341499407577525
+    second: Bulbasaur Ivysaur & Venusaur_alpha_46
+  - first:
+      213: -2796815241692241136
+    second: Bulbasaur Ivysaur & Venusaur_alpha_47
+  - first:
+      213: 3396919920096709320
+    second: Bulbasaur Ivysaur & Venusaur_alpha_48
+  - first:
+      213: -7593021394090305403
+    second: Bulbasaur Ivysaur & Venusaur_alpha_49
+  - first:
+      213: -2451041845375203028
+    second: Bulbasaur Ivysaur & Venusaur_alpha_50
+  - first:
+      213: 2462111463035727588
+    second: Bulbasaur Ivysaur & Venusaur_alpha_51
+  - first:
+      213: 2721034631065457715
+    second: Bulbasaur Ivysaur & Venusaur_alpha_52
+  - first:
+      213: -5677577757847100753
+    second: Bulbasaur Ivysaur & Venusaur_alpha_53
+  - first:
+      213: -6779103792506701143
+    second: Bulbasaur Ivysaur & Venusaur_alpha_54
+  - first:
+      213: -6588862627942394096
+    second: Bulbasaur Ivysaur & Venusaur_alpha_55
+  - first:
+      213: -8491389260446509782
+    second: Bulbasaur Ivysaur & Venusaur_alpha_56
+  - first:
+      213: -5831953659564709828
+    second: Bulbasaur Ivysaur & Venusaur_alpha_57
+  - first:
+      213: -2764611636788784902
+    second: Bulbasaur Ivysaur & Venusaur_alpha_58
+  - first:
+      213: -6638412299810818746
+    second: Bulbasaur Ivysaur & Venusaur_alpha_59
+  - first:
+      213: 5009034941625778168
+    second: Bulbasaur Ivysaur & Venusaur_alpha_60
+  - first:
+      213: -8537610145633965483
+    second: Bulbasaur Ivysaur & Venusaur_alpha_61
+  - first:
+      213: -7806514974776302908
+    second: Bulbasaur Ivysaur & Venusaur_alpha_62
+  - first:
+      213: -5236405173643032046
+    second: Bulbasaur Ivysaur & Venusaur_alpha_63
+  - first:
+      213: 8156739642152659209
+    second: Bulbasaur Ivysaur & Venusaur_alpha_64
+  - first:
+      213: -6742769825889107946
+    second: Bulbasaur Ivysaur & Venusaur_alpha_65
+  - first:
+      213: 1989577523135586406
+    second: Bulbasaur Ivysaur & Venusaur_alpha_66
+  - first:
+      213: -6559232321311153600
+    second: Bulbasaur Ivysaur & Venusaur_alpha_67
+  - first:
+      213: 5552022753337190351
+    second: Bulbasaur Ivysaur & Venusaur_alpha_68
+  - first:
+      213: 7190308926031918139
+    second: Bulbasaur Ivysaur & Venusaur_alpha_69
+  - first:
+      213: 7427853358396943086
+    second: Bulbasaur Ivysaur & Venusaur_alpha_70
+  - first:
+      213: -8737760776985325421
+    second: Bulbasaur Ivysaur & Venusaur_alpha_71
+  - first:
+      213: 1192722090001997941
+    second: Bulbasaur Ivysaur & Venusaur_alpha_72
+  - first:
+      213: -6078320320430908635
+    second: Bulbasaur Ivysaur & Venusaur_alpha_73
+  - first:
+      213: 8247829747347477218
+    second: Bulbasaur Ivysaur & Venusaur_alpha_74
+  - first:
+      213: -4841090781096013815
+    second: Bulbasaur Ivysaur & Venusaur_alpha_75
+  - first:
+      213: -839912491352341389
+    second: Bulbasaur Ivysaur & Venusaur_alpha_76
+  - first:
+      213: 2436944879652871481
+    second: Bulbasaur Ivysaur & Venusaur_alpha_77
+  - first:
+      213: 6593354663362443091
+    second: Bulbasaur Ivysaur & Venusaur_alpha_78
+  - first:
+      213: 5584403587735723261
+    second: Bulbasaur Ivysaur & Venusaur_alpha_79
+  - first:
+      213: -303155303734104623
+    second: Bulbasaur Ivysaur & Venusaur_alpha_80
+  - first:
+      213: -650264655407028541
+    second: Bulbasaur Ivysaur & Venusaur_alpha_81
+  - first:
+      213: -8278019609935279783
+    second: Bulbasaur Ivysaur & Venusaur_alpha_82
+  - first:
+      213: 3732157926228368019
+    second: Bulbasaur Ivysaur & Venusaur_alpha_83
+  - first:
+      213: 8934117188106592374
+    second: Bulbasaur Ivysaur & Venusaur_alpha_84
+  - first:
+      213: -4173216758533299016
+    second: Bulbasaur Ivysaur & Venusaur_alpha_85
+  - first:
+      213: 5980146817037540701
+    second: Bulbasaur Ivysaur & Venusaur_alpha_86
+  - first:
+      213: -5398922588806573610
+    second: Bulbasaur Ivysaur & Venusaur_alpha_87
+  - first:
+      213: 9003601790559768088
+    second: Bulbasaur Ivysaur & Venusaur_alpha_88
+  - first:
+      213: 2993912009805373056
+    second: Bulbasaur Ivysaur & Venusaur_alpha_89
+  - first:
+      213: -6636472313732072584
+    second: Bulbasaur Ivysaur & Venusaur_alpha_90
+  - first:
+      213: 5945166923028636164
+    second: Bulbasaur Ivysaur & Venusaur_alpha_91
+  - first:
+      213: 81204732026207937
+    second: Bulbasaur Ivysaur & Venusaur_alpha_92
+  - first:
+      213: 5346187986611139686
+    second: Bulbasaur Ivysaur & Venusaur_alpha_93
+  - first:
+      213: -6335720866558478449
+    second: Bulbasaur Ivysaur & Venusaur_alpha_94
+  - first:
+      213: -6592260477906669568
+    second: Bulbasaur Ivysaur & Venusaur_alpha_95
+  - first:
+      213: 7406387102655077319
+    second: Bulbasaur Ivysaur & Venusaur_alpha_96
+  - first:
+      213: -1364922432356777205
+    second: Bulbasaur Ivysaur & Venusaur_alpha_97
+  - first:
+      213: -8907463647508014785
+    second: Bulbasaur Ivysaur & Venusaur_alpha_98
+  - first:
+      213: 3796493807634763939
+    second: Bulbasaur Ivysaur & Venusaur_alpha_99
+  - first:
+      213: -7370460617296636222
+    second: Bulbasaur Ivysaur & Venusaur_alpha_100
+  - first:
+      213: -3263923157782726938
+    second: Bulbasaur Ivysaur & Venusaur_alpha_101
+  - first:
+      213: -3054898821558369937
+    second: Bulbasaur Ivysaur & Venusaur_alpha_102
+  - first:
+      213: 3270501325749571038
+    second: Bulbasaur Ivysaur & Venusaur_alpha_103
+  - first:
+      213: -6656890674593866204
+    second: Bulbasaur Ivysaur & Venusaur_alpha_104
+  - first:
+      213: 2623916672663415253
+    second: Bulbasaur Ivysaur & Venusaur_alpha_105
+  - first:
+      213: -4458327234788347605
+    second: Bulbasaur Ivysaur & Venusaur_alpha_106
+  - first:
+      213: 9133779209689924127
+    second: Bulbasaur Ivysaur & Venusaur_alpha_107
+  - first:
+      213: -7510537966144721844
+    second: Bulbasaur Ivysaur & Venusaur_alpha_108
+  - first:
+      213: -8159752927837580045
+    second: Bulbasaur Ivysaur & Venusaur_alpha_109
+  - first:
+      213: 4783849350635989035
+    second: Bulbasaur Ivysaur & Venusaur_alpha_110
+  - first:
+      213: 4195788127935729544
+    second: Bulbasaur Ivysaur & Venusaur_alpha_111
+  - first:
+      213: 2204445932083349350
+    second: Bulbasaur Ivysaur & Venusaur_alpha_112
+  - first:
+      213: 6608052523503067474
+    second: Bulbasaur Ivysaur & Venusaur_alpha_113
+  - first:
+      213: -1169056338613653762
+    second: Bulbasaur Ivysaur & Venusaur_alpha_114
+  - first:
+      213: 5228957961711818260
+    second: Bulbasaur Ivysaur & Venusaur_alpha_115
+  - first:
+      213: 95345492645707803
+    second: Bulbasaur Ivysaur & Venusaur_alpha_116
+  - first:
+      213: 1155075849471894532
+    second: Bulbasaur Ivysaur & Venusaur_alpha_117
+  - first:
+      213: -2240773004444899958
+    second: Bulbasaur Ivysaur & Venusaur_alpha_118
+  - first:
+      213: 4528755076706629176
+    second: Bulbasaur Ivysaur & Venusaur_alpha_119
+  - first:
+      213: 7942826531911892305
+    second: Bulbasaur Ivysaur & Venusaur_alpha_120
+  - first:
+      213: 3889908408743875925
+    second: Bulbasaur Ivysaur & Venusaur_alpha_121
+  - first:
+      213: -4364371078828008142
+    second: Bulbasaur Ivysaur & Venusaur_alpha_122
+  - first:
+      213: 933894904334959525
+    second: Bulbasaur Ivysaur & Venusaur_alpha_123
+  - first:
+      213: 1178746922435512133
+    second: Bulbasaur Ivysaur & Venusaur_alpha_124
+  - first:
+      213: 3728137577853271259
+    second: Bulbasaur Ivysaur & Venusaur_alpha_125
+  - first:
+      213: 2471876978813667198
+    second: Bulbasaur Ivysaur & Venusaur_alpha_126
+  - first:
+      213: 8964976467172506216
+    second: Bulbasaur Ivysaur & Venusaur_alpha_127
+  - first:
+      213: -8513233690338478438
+    second: Bulbasaur Ivysaur & Venusaur_alpha_128
+  - first:
+      213: 7481768463847958790
+    second: Bulbasaur Ivysaur & Venusaur_alpha_129
+  - first:
+      213: -4932834182629387645
+    second: Bulbasaur Ivysaur & Venusaur_alpha_130
+  - first:
+      213: -3565031469121782156
+    second: Bulbasaur Ivysaur & Venusaur_alpha_131
+  - first:
+      213: 6947773581253602166
+    second: Bulbasaur Ivysaur & Venusaur_alpha_132
+  - first:
+      213: 4833183241498102158
+    second: Bulbasaur Ivysaur & Venusaur_alpha_133
+  - first:
+      213: -6001919415254467389
+    second: Bulbasaur Ivysaur & Venusaur_alpha_134
+  - first:
+      213: 2500020933207950390
+    second: Bulbasaur Ivysaur & Venusaur_alpha_135
+  - first:
+      213: 7231080345032955269
+    second: Bulbasaur Ivysaur & Venusaur_alpha_136
+  - first:
+      213: 2888414737034511934
+    second: Bulbasaur Ivysaur & Venusaur_alpha_137
+  - first:
+      213: 5221292052290712731
+    second: Bulbasaur Ivysaur & Venusaur_alpha_138
+  - first:
+      213: 3729856133089768053
+    second: Bulbasaur Ivysaur & Venusaur_alpha_139
+  - first:
+      213: 5420403191793147896
+    second: Bulbasaur Ivysaur & Venusaur_alpha_140
+  - first:
+      213: 9067608065524319711
+    second: Bulbasaur Ivysaur & Venusaur_alpha_141
+  - first:
+      213: 4252121529489516513
+    second: Bulbasaur Ivysaur & Venusaur_alpha_142
+  - first:
+      213: -999926214366451115
+    second: Bulbasaur Ivysaur & Venusaur_alpha_143
+  - first:
+      213: 4609773170965451556
+    second: Bulbasaur Ivysaur & Venusaur_alpha_144
+  - first:
+      213: -2893811344590320660
+    second: Bulbasaur Ivysaur & Venusaur_alpha_145
+  - first:
+      213: 2543156511675431725
+    second: Bulbasaur Ivysaur & Venusaur_alpha_146
+  - first:
+      213: 6414771437179778737
+    second: Bulbasaur Ivysaur & Venusaur_alpha_147
+  - first:
+      213: -4293624598683088886
+    second: Bulbasaur Ivysaur & Venusaur_alpha_148
+  - first:
+      213: 1848289711633587591
+    second: Bulbasaur Ivysaur & Venusaur_alpha_149
+  - first:
+      213: 7151953267006639530
+    second: Bulbasaur Ivysaur & Venusaur_alpha_150
+  - first:
+      213: -7982691854453202451
+    second: Bulbasaur Ivysaur & Venusaur_alpha_151
+  - first:
+      213: 6383769631196925270
+    second: Bulbasaur Ivysaur & Venusaur_alpha_152
+  - first:
+      213: -6478985039039314991
+    second: Bulbasaur Ivysaur & Venusaur_alpha_153
+  - first:
+      213: -3773248580151679414
+    second: Bulbasaur Ivysaur & Venusaur_alpha_154
+  - first:
+      213: -5593324399705164934
+    second: Bulbasaur Ivysaur & Venusaur_alpha_155
+  - first:
+      213: 5056395914536595818
+    second: Bulbasaur Ivysaur & Venusaur_alpha_156
+  - first:
+      213: -9115549932183293500
+    second: Bulbasaur Ivysaur & Venusaur_alpha_157
+  - first:
+      213: -8701950970872640875
+    second: Bulbasaur Ivysaur & Venusaur_alpha_158
+  - first:
+      213: -8375915441520185550
+    second: Bulbasaur Ivysaur & Venusaur_alpha_159
+  - first:
+      213: 159616209803638544
+    second: Bulbasaur Ivysaur & Venusaur_alpha_160
+  - first:
+      213: -6356377995188960043
+    second: Bulbasaur Ivysaur & Venusaur_alpha_161
+  - first:
+      213: 2280081557111062463
+    second: Bulbasaur Ivysaur & Venusaur_alpha_162
+  - first:
+      213: -3217982003679502994
+    second: Bulbasaur Ivysaur & Venusaur_alpha_163
+  - first:
+      213: -2341538855883336263
+    second: Bulbasaur Ivysaur & Venusaur_alpha_164
+  - first:
+      213: -7334578926407836070
+    second: Bulbasaur Ivysaur & Venusaur_alpha_165
+  - first:
+      213: 2456586367053463651
+    second: Bulbasaur Ivysaur & Venusaur_alpha_166
+  - first:
+      213: 2453322222970824078
+    second: Bulbasaur Ivysaur & Venusaur_alpha_167
+  - first:
+      213: 2777710050646936500
+    second: Bulbasaur Ivysaur & Venusaur_alpha_168
+  - first:
+      213: -4528796329313110258
+    second: Bulbasaur Ivysaur & Venusaur_alpha_169
+  - first:
+      213: -7549643594238690237
+    second: Bulbasaur Ivysaur & Venusaur_alpha_170
+  - first:
+      213: -667694803057359849
+    second: Bulbasaur Ivysaur & Venusaur_alpha_171
+  - first:
+      213: -3491813254478576892
+    second: Bulbasaur Ivysaur & Venusaur_alpha_172
+  - first:
+      213: 2228539861022505443
+    second: Bulbasaur Ivysaur & Venusaur_alpha_173
+  - first:
+      213: 5945196452058013328
+    second: Bulbasaur Ivysaur & Venusaur_alpha_174
+  - first:
+      213: 6199307916847880468
+    second: Bulbasaur Ivysaur & Venusaur_alpha_175
+  - first:
+      213: 6991645175473337019
+    second: Bulbasaur Ivysaur & Venusaur_alpha_176
+  - first:
+      213: -5719962220718908628
+    second: Bulbasaur Ivysaur & Venusaur_alpha_177
+  - first:
+      213: 2408290761760736464
+    second: Bulbasaur Ivysaur & Venusaur_alpha_178
+  - first:
+      213: -8574154513824878645
+    second: Bulbasaur Ivysaur & Venusaur_alpha_179
+  - first:
+      213: -2779168885921226287
+    second: Bulbasaur Ivysaur & Venusaur_alpha_180
+  - first:
+      213: -1150906947420180072
+    second: Bulbasaur Ivysaur & Venusaur_alpha_181
+  - first:
+      213: -7716934094058955209
+    second: Bulbasaur Ivysaur & Venusaur_alpha_182
+  - first:
+      213: -1154951395557878809
+    second: Bulbasaur Ivysaur & Venusaur_alpha_183
+  - first:
+      213: 2695445620787232264
+    second: Bulbasaur Ivysaur & Venusaur_alpha_184
+  - first:
+      213: 8235384718599510600
+    second: Bulbasaur Ivysaur & Venusaur_alpha_185
+  - first:
+      213: 3631374937714529590
+    second: Bulbasaur Ivysaur & Venusaur_alpha_186
+  - first:
+      213: 6499050612877770232
+    second: Bulbasaur Ivysaur & Venusaur_alpha_187
+  - first:
+      213: 751955773497759444
+    second: Bulbasaur Ivysaur & Venusaur_alpha_188
+  - first:
+      213: 8510411109397162003
+    second: Bulbasaur Ivysaur & Venusaur_alpha_189
+  - first:
+      213: -5611957692044976359
+    second: Bulbasaur Ivysaur & Venusaur_alpha_190
+  - first:
+      213: -7205463727549101340
+    second: Bulbasaur Ivysaur & Venusaur_alpha_191
+  - first:
+      213: -6487464552646856898
+    second: Bulbasaur Ivysaur & Venusaur_alpha_192
+  - first:
+      213: -2671250184474689985
+    second: Bulbasaur Ivysaur & Venusaur_alpha_193
+  - first:
+      213: -5749064045849933085
+    second: Bulbasaur Ivysaur & Venusaur_alpha_194
+  - first:
+      213: -677590712777804145
+    second: Bulbasaur Ivysaur & Venusaur_alpha_195
+  - first:
+      213: -5753891800296199646
+    second: Bulbasaur Ivysaur & Venusaur_alpha_196
+  - first:
+      213: -368379174100963215
+    second: Bulbasaur Ivysaur & Venusaur_alpha_197
+  - first:
+      213: -8207213523597487535
+    second: Bulbasaur Ivysaur & Venusaur_alpha_198
+  - first:
+      213: 3950490590687403443
+    second: Bulbasaur Ivysaur & Venusaur_alpha_199
+  - first:
+      213: -8073432647082582040
+    second: Bulbasaur Ivysaur & Venusaur_alpha_200
+  - first:
+      213: -5724491033074858115
+    second: Bulbasaur Ivysaur & Venusaur_alpha_201
+  - first:
+      213: 1573504696390803032
+    second: Bulbasaur Ivysaur & Venusaur_alpha_202
+  - first:
+      213: 4465041785784413414
+    second: Bulbasaur Ivysaur & Venusaur_alpha_203
+  - first:
+      213: -6011060716552093502
+    second: Bulbasaur Ivysaur & Venusaur_alpha_204
+  - first:
+      213: 836770695373524795
+    second: Bulbasaur Ivysaur & Venusaur_alpha_205
+  - first:
+      213: 4296649256757470814
+    second: Bulbasaur Ivysaur & Venusaur_alpha_206
+  - first:
+      213: 2630201581193656354
+    second: Bulbasaur Ivysaur & Venusaur_alpha_207
+  - first:
+      213: 7785870210848596590
+    second: Bulbasaur Ivysaur & Venusaur_alpha_208
+  - first:
+      213: -3600559175969240481
+    second: Bulbasaur Ivysaur & Venusaur_alpha_209
+  - first:
+      213: -6687194165622039034
+    second: Bulbasaur Ivysaur & Venusaur_alpha_210
+  - first:
+      213: -8946051984498771730
+    second: Bulbasaur Ivysaur & Venusaur_alpha_211
+  - first:
+      213: 6990115938949919741
+    second: Bulbasaur Ivysaur & Venusaur_alpha_212
+  - first:
+      213: -3128730673038496231
+    second: Bulbasaur Ivysaur & Venusaur_alpha_213
+  - first:
+      213: -1994633564774784775
+    second: Bulbasaur Ivysaur & Venusaur_alpha_214
+  - first:
+      213: 6862166107977363360
+    second: Bulbasaur Ivysaur & Venusaur_alpha_215
+  - first:
+      213: -8320488487599996609
+    second: Bulbasaur Ivysaur & Venusaur_alpha_216
+  - first:
+      213: 8948776833218388843
+    second: Bulbasaur Ivysaur & Venusaur_alpha_217
+  - first:
+      213: -1984384660603101689
+    second: Bulbasaur Ivysaur & Venusaur_alpha_218
+  - first:
+      213: -3613552794426995740
+    second: Bulbasaur Ivysaur & Venusaur_alpha_219
+  - first:
+      213: 5593922686634876943
+    second: Bulbasaur Ivysaur & Venusaur_alpha_220
+  - first:
+      213: -2990391587678222411
+    second: Bulbasaur Ivysaur & Venusaur_alpha_221
+  - first:
+      213: 2598843166843161776
+    second: Bulbasaur Ivysaur & Venusaur_alpha_222
+  - first:
+      213: -3851560625309671132
+    second: Bulbasaur Ivysaur & Venusaur_alpha_223
+  - first:
+      213: 3983515878644710532
+    second: Bulbasaur Ivysaur & Venusaur_alpha_224
+  - first:
+      213: 5329099204981824384
+    second: Bulbasaur Ivysaur & Venusaur_alpha_225
+  - first:
+      213: -8580366128129216251
+    second: Bulbasaur Ivysaur & Venusaur_alpha_226
+  - first:
+      213: 8413969210835151210
+    second: Bulbasaur Ivysaur & Venusaur_alpha_227
+  - first:
+      213: 6086028520676982767
+    second: Bulbasaur Ivysaur & Venusaur_alpha_228
+  - first:
+      213: -2092548193227767775
+    second: Bulbasaur Ivysaur & Venusaur_alpha_229
+  - first:
+      213: 1033944967688471993
+    second: Bulbasaur Ivysaur & Venusaur_alpha_230
+  - first:
+      213: -2668360836458859748
+    second: Bulbasaur Ivysaur & Venusaur_alpha_231
+  - first:
+      213: -1402472299478630446
+    second: Bulbasaur Ivysaur & Venusaur_alpha_232
+  - first:
+      213: 2848029933785489677
+    second: Bulbasaur Ivysaur & Venusaur_alpha_233
+  - first:
+      213: -1947151224236403800
+    second: Bulbasaur Ivysaur & Venusaur_alpha_234
+  - first:
+      213: -1574188416028364193
+    second: Bulbasaur Ivysaur & Venusaur_alpha_235
+  - first:
+      213: 7793062876511157285
+    second: Bulbasaur Ivysaur & Venusaur_alpha_236
+  - first:
+      213: -418481910277831840
+    second: Bulbasaur Ivysaur & Venusaur_alpha_237
+  - first:
+      213: -877464591112338921
+    second: Bulbasaur Ivysaur & Venusaur_alpha_238
+  - first:
+      213: -5499581559360881453
+    second: Bulbasaur Ivysaur & Venusaur_alpha_239
+  - first:
+      213: -8732341865818041868
+    second: Bulbasaur Ivysaur & Venusaur_alpha_240
+  - first:
+      213: 1458138302087562284
+    second: Bulbasaur Ivysaur & Venusaur_alpha_241
+  - first:
+      213: 4675091260221806629
+    second: Bulbasaur Ivysaur & Venusaur_alpha_242
+  - first:
+      213: -6586206458480515434
+    second: Bulbasaur Ivysaur & Venusaur_alpha_243
+  - first:
+      213: -8053985868274648588
+    second: Bulbasaur Ivysaur & Venusaur_alpha_244
+  - first:
+      213: -3861209649873670864
+    second: Bulbasaur Ivysaur & Venusaur_alpha_245
+  - first:
+      213: -7291379661305539457
+    second: Bulbasaur Ivysaur & Venusaur_alpha_246
+  - first:
+      213: 4233022471220013443
+    second: Bulbasaur Ivysaur & Venusaur_alpha_247
+  - first:
+      213: 7822405882494494768
+    second: Bulbasaur Ivysaur & Venusaur_alpha_248
+  - first:
+      213: -1992602599953542409
+    second: Bulbasaur Ivysaur & Venusaur_alpha_249
+  - first:
+      213: -1827312415576353249
+    second: Bulbasaur Ivysaur & Venusaur_alpha_250
+  - first:
+      213: 1639252298323420982
+    second: Bulbasaur Ivysaur & Venusaur_alpha_251
+  - first:
+      213: -6091226816793080085
+    second: Bulbasaur Ivysaur & Venusaur_alpha_252
+  - first:
+      213: 3321883442800364024
+    second: Bulbasaur Ivysaur & Venusaur_alpha_253
+  - first:
+      213: 1130797253501772955
+    second: Bulbasaur Ivysaur & Venusaur_alpha_254
+  - first:
+      213: -9009994240721465611
+    second: Bulbasaur Ivysaur & Venusaur_alpha_255
+  - first:
+      213: -8497316951206243743
+    second: Bulbasaur Ivysaur & Venusaur_alpha_256
+  - first:
+      213: 888012322590514416
+    second: Bulbasaur Ivysaur & Venusaur_alpha_257
+  - first:
+      213: 3283911475411943854
+    second: Bulbasaur Ivysaur & Venusaur_alpha_258
+  - first:
+      213: -8327228861060317640
+    second: Bulbasaur Ivysaur & Venusaur_alpha_259
+  - first:
+      213: -1847546400784511306
+    second: Bulbasaur Ivysaur & Venusaur_alpha_260
+  - first:
+      213: 8677044242827166552
+    second: Bulbasaur Ivysaur & Venusaur_alpha_261
+  - first:
+      213: 6699190858014829267
+    second: Bulbasaur Ivysaur & Venusaur_alpha_262
+  - first:
+      213: -7794266350551055793
+    second: Bulbasaur Ivysaur & Venusaur_alpha_263
+  - first:
+      213: 4873670706541459992
+    second: Bulbasaur Ivysaur & Venusaur_alpha_264
+  - first:
+      213: 5168883791983464020
+    second: Bulbasaur Ivysaur & Venusaur_alpha_265
+  - first:
+      213: -9215708759090628017
+    second: Bulbasaur Ivysaur & Venusaur_alpha_266
+  - first:
+      213: -6802735687471372884
+    second: Bulbasaur Ivysaur & Venusaur_alpha_267
+  - first:
+      213: -2183174069286403338
+    second: Bulbasaur Ivysaur & Venusaur_alpha_268
+  - first:
+      213: -1297656501471736418
+    second: Bulbasaur Ivysaur & Venusaur_alpha_269
+  - first:
+      213: -8608805454498669091
+    second: Bulbasaur Ivysaur & Venusaur_alpha_270
+  - first:
+      213: 6666518131399422820
+    second: Bulbasaur Ivysaur & Venusaur_alpha_271
+  - first:
+      213: 6032476044780451631
+    second: Bulbasaur Ivysaur & Venusaur_alpha_272
+  - first:
+      213: -8977760511598442468
+    second: Bulbasaur Ivysaur & Venusaur_alpha_273
+  - first:
+      213: 6141947361160055290
+    second: Bulbasaur Ivysaur & Venusaur_alpha_274
+  - first:
+      213: -8805328584823412735
+    second: Bulbasaur Ivysaur & Venusaur_alpha_275
+  - first:
+      213: -2142264554431315533
+    second: Bulbasaur Ivysaur & Venusaur_alpha_276
+  - first:
+      213: 8945840299521937006
+    second: Bulbasaur Ivysaur & Venusaur_alpha_277
+  - first:
+      213: 3265454199193127115
+    second: Bulbasaur Ivysaur & Venusaur_alpha_278
+  - first:
+      213: 1250881768198665952
+    second: Bulbasaur Ivysaur & Venusaur_alpha_279
+  - first:
+      213: -7702535941447455493
+    second: Bulbasaur Ivysaur & Venusaur_alpha_280
+  - first:
+      213: -1921666921134986946
+    second: Bulbasaur Ivysaur & Venusaur_alpha_281
+  - first:
+      213: -3437152171482429118
+    second: Bulbasaur Ivysaur & Venusaur_alpha_282
+  - first:
+      213: 6866790637346136334
+    second: Bulbasaur Ivysaur & Venusaur_alpha_283
+  - first:
+      213: 8168065878991596733
+    second: Bulbasaur Ivysaur & Venusaur_alpha_284
+  - first:
+      213: -8603832469085480539
+    second: Bulbasaur Ivysaur & Venusaur_alpha_285
+  - first:
+      213: -1712204165637081775
+    second: Bulbasaur Ivysaur & Venusaur_alpha_286
+  - first:
+      213: -6099178452743290410
+    second: Bulbasaur Ivysaur & Venusaur_alpha_287
+  - first:
+      213: 8158340744802433834
+    second: Bulbasaur Ivysaur & Venusaur_alpha_288
+  - first:
+      213: -2974947979096288603
+    second: Bulbasaur Ivysaur & Venusaur_alpha_289
+  - first:
+      213: -5581775182304537606
+    second: Bulbasaur Ivysaur & Venusaur_alpha_290
+  - first:
+      213: 4620686526293237602
+    second: Bulbasaur Ivysaur & Venusaur_alpha_291
+  - first:
+      213: -6331405655838521699
+    second: Bulbasaur Ivysaur & Venusaur_alpha_292
+  - first:
+      213: -550989551374284569
+    second: Bulbasaur Ivysaur & Venusaur_alpha_293
+  - first:
+      213: -8262824449565886876
+    second: Bulbasaur Ivysaur & Venusaur_alpha_294
+  - first:
+      213: 6266360039170837306
+    second: Bulbasaur Ivysaur & Venusaur_alpha_295
+  - first:
+      213: 4923150705780298671
+    second: Bulbasaur Ivysaur & Venusaur_alpha_296
+  - first:
+      213: 3201787028141510654
+    second: Bulbasaur Ivysaur & Venusaur_alpha_297
+  - first:
+      213: -2219467670596786061
+    second: Bulbasaur Ivysaur & Venusaur_alpha_298
+  - first:
+      213: 8563911721997467289
+    second: Bulbasaur Ivysaur & Venusaur_alpha_299
+  - first:
+      213: -3139350636737894556
+    second: Bulbasaur Ivysaur & Venusaur_alpha_300
+  - first:
+      213: -7588050126318610490
+    second: Bulbasaur Ivysaur & Venusaur_alpha_301
+  - first:
+      213: -5508845926934332535
+    second: Bulbasaur Ivysaur & Venusaur_alpha_302
+  - first:
+      213: 8685514141974376365
+    second: Bulbasaur Ivysaur & Venusaur_alpha_303
+  - first:
+      213: 79328718449522494
+    second: Bulbasaur Ivysaur & Venusaur_alpha_304
+  - first:
+      213: 6622692257476214522
+    second: Bulbasaur Ivysaur & Venusaur_alpha_305
+  - first:
+      213: 4498390849878973219
+    second: Bulbasaur Ivysaur & Venusaur_alpha_306
+  - first:
+      213: 1537618718098308371
+    second: Bulbasaur Ivysaur & Venusaur_alpha_307
+  - first:
+      213: -2399199625153021358
+    second: Bulbasaur Ivysaur & Venusaur_alpha_308
+  - first:
+      213: -4168463367883834596
+    second: Bulbasaur Ivysaur & Venusaur_alpha_309
+  - first:
+      213: -1863448962833195933
+    second: Bulbasaur Ivysaur & Venusaur_alpha_310
+  - first:
+      213: 1094990304030756811
+    second: Bulbasaur Ivysaur & Venusaur_alpha_311
+  - first:
+      213: -4696824439314839420
+    second: Bulbasaur Ivysaur & Venusaur_alpha_312
+  - first:
+      213: 77592785296305595
+    second: Bulbasaur Ivysaur & Venusaur_alpha_313
+  - first:
+      213: 5697812591829048367
+    second: Bulbasaur Ivysaur & Venusaur_alpha_314
+  - first:
+      213: -4067598779011006452
+    second: Bulbasaur Ivysaur & Venusaur_alpha_315
+  - first:
+      213: -4193563888375672783
+    second: Bulbasaur Ivysaur & Venusaur_alpha_316
+  - first:
+      213: -3921387867720103203
+    second: Bulbasaur Ivysaur & Venusaur_alpha_317
+  - first:
+      213: 4494361384370950709
+    second: Bulbasaur Ivysaur & Venusaur_alpha_318
+  - first:
+      213: -9013803635734489912
+    second: Bulbasaur Ivysaur & Venusaur_alpha_319
+  - first:
+      213: 4676601456461953706
+    second: Bulbasaur Ivysaur & Venusaur_alpha_320
+  - first:
+      213: -6520750264923108234
+    second: Bulbasaur Ivysaur & Venusaur_alpha_321
+  - first:
+      213: 3640721482619830569
+    second: Bulbasaur Ivysaur & Venusaur_alpha_322
+  - first:
+      213: 7327769776993692440
+    second: Bulbasaur Ivysaur & Venusaur_alpha_323
+  - first:
+      213: -6063982991692683114
+    second: Bulbasaur Ivysaur & Venusaur_alpha_324
+  - first:
+      213: -2584895159582479251
+    second: Bulbasaur Ivysaur & Venusaur_alpha_325
+  - first:
+      213: -5379842983369638050
+    second: Bulbasaur Ivysaur & Venusaur_alpha_326
+  - first:
+      213: -6692075506961537467
+    second: Bulbasaur Ivysaur & Venusaur_alpha_327
+  - first:
+      213: -8754090378682260897
+    second: Bulbasaur Ivysaur & Venusaur_alpha_328
+  - first:
+      213: 396043882077957296
+    second: Bulbasaur Ivysaur & Venusaur_alpha_329
+  - first:
+      213: 595798107697098617
+    second: Bulbasaur Ivysaur & Venusaur_alpha_330
+  - first:
+      213: -2210426091865957765
+    second: Bulbasaur Ivysaur & Venusaur_alpha_331
+  - first:
+      213: -1819149007693401015
+    second: Bulbasaur Ivysaur & Venusaur_alpha_332
+  - first:
+      213: -120073379084517864
+    second: Bulbasaur Ivysaur & Venusaur_alpha_333
+  - first:
+      213: -2361206974704987808
+    second: Bulbasaur Ivysaur & Venusaur_alpha_334
+  - first:
+      213: 2331070246393227539
+    second: Bulbasaur Ivysaur & Venusaur_alpha_335
+  - first:
+      213: -1282307655429859885
+    second: Bulbasaur Ivysaur & Venusaur_alpha_336
+  - first:
+      213: -91257025917317074
+    second: Bulbasaur Ivysaur & Venusaur_alpha_337
+  - first:
+      213: -7833338697952629449
+    second: Bulbasaur Ivysaur & Venusaur_alpha_338
+  - first:
+      213: -5509980260185076887
+    second: Bulbasaur Ivysaur & Venusaur_alpha_339
+  - first:
+      213: -1829106591157664978
+    second: Bulbasaur Ivysaur & Venusaur_alpha_340
+  - first:
+      213: -5469020892684771222
+    second: Bulbasaur Ivysaur & Venusaur_alpha_341
+  - first:
+      213: -885895158219402352
+    second: Bulbasaur Ivysaur & Venusaur_alpha_342
+  - first:
+      213: 2600899721647576232
+    second: Bulbasaur Ivysaur & Venusaur_alpha_343
+  - first:
+      213: -8235536172660571241
+    second: Bulbasaur Ivysaur & Venusaur_alpha_344
+  - first:
+      213: -3488666812214843979
+    second: Bulbasaur Ivysaur & Venusaur_alpha_345
+  - first:
+      213: 9215783317118993346
+    second: Bulbasaur Ivysaur & Venusaur_alpha_346
+  - first:
+      213: 7860603605916872059
+    second: Bulbasaur Ivysaur & Venusaur_alpha_347
+  - first:
+      213: -7845328578556406308
+    second: Bulbasaur Ivysaur & Venusaur_alpha_348
+  - first:
+      213: 6744690757230982261
+    second: Bulbasaur Ivysaur & Venusaur_alpha_349
+  - first:
+      213: 7045411768729425186
+    second: Bulbasaur Ivysaur & Venusaur_alpha_350
+  - first:
+      213: -6364350299679285685
+    second: Bulbasaur Ivysaur & Venusaur_alpha_351
+  - first:
+      213: -610959113255857460
+    second: Bulbasaur Ivysaur & Venusaur_alpha_352
+  - first:
+      213: 3274200284491234504
+    second: Bulbasaur Ivysaur & Venusaur_alpha_353
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 846
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475b886a508120da0800000000000000
+      internalID: -5980190942646717068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 874
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f86848e571fb4c0800000000000000
+      internalID: -4269668227006165128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_22
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 860
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2902dbe5a1310060800000000000000
+      internalID: 6917865091313568047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_23
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 860
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c98362dfb098f70800000000000000
+      internalID: 9189889696522083427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_24
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 860
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c5b9984f273c340800000000000000
+      internalID: 4882872815605996671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_25
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 860
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349b10f9983290e00800000000000000
+      internalID: 1011378665306569027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_26
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 848
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d920cab8eef89160800000000000000
+      internalID: 7032651093658053076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_27
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 848
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acb3b0d6552ebcb0800000000000000
+      internalID: -4846395094205219678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 848
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126227bf104605710800000000000000
+      internalID: 1679952620685501985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_29
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 848
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4e8c1bf90dc4220800000000000000
+      internalID: 2471579679820670123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_30
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 851
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3b0e249f201ddd0800000000000000
+      internalID: -2463184251602816091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_31
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 851
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a0bd07c0ddebed0800000000000000
+      internalID: -2396234906211775978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_35
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 828
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878ecb71fd2ec3750800000000000000
+      internalID: 6286148627706210424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_36
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 828
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d36c5c67d20e3370800000000000000
+      internalID: 8304077887176991704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_37
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 826
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f799c5aacf51460800000000000000
+      internalID: 7211948186931920671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_38
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 826
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db957ef7a30305320800000000000000
+      internalID: 2544586817276434877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_42
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 819
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b46c92fad1bd420800000000000000
+      internalID: 2655749043422382951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_43
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 819
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718e273dff7710e80800000000000000
+      internalID: -8214152304699185129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_44
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 819
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203590566bc3e2190800000000000000
+      internalID: -7985378335204486398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_45
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 825
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6f7d7a537be53f0800000000000000
+      internalID: -910088633605163280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_46
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 825
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1b23ed2b4306a40800000000000000
+      internalID: 5359341499407577525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_47
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 825
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01329881b57bf29d0800000000000000
+      internalID: -2796815241692241136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_48
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 825
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca00df6ba8442f20800000000000000
+      internalID: 3396919920096709320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_49
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 825
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5885e49854b20a690800000000000000
+      internalID: -7593021394090305403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_50
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 825
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c290bc48d662cfdd0800000000000000
+      internalID: -2451041845375203028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_51
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 806
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee69afa45d2b2220800000000000000
+      internalID: 2462111463035727588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_52
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 806
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334513e849e03c520800000000000000
+      internalID: 2721034631065457715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_53
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 795
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa26dde3c113531b0800000000000000
+      internalID: -5677577757847100753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_54
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 795
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa72289409cbe1a0800000000000000
+      internalID: -6779103792506701143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_55
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 795
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01795a36958af84a0800000000000000
+      internalID: -6588862627942394096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_56
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 805
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25d489f476882a80800000000000000
+      internalID: -8491389260446509782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_57
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 805
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c382b1fab0db01fa0800000000000000
+      internalID: -5831953659564709828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_58
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 806
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af01b472d5022a9d0800000000000000
+      internalID: -2764611636788784902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_59
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 806
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64531356f2f9fd3a0800000000000000
+      internalID: -6638412299810818746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_60
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 797
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffbf1b8dbaa38540800000000000000
+      internalID: 5009034941625778168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_61
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 797
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a67b68ec0548980800000000000000
+      internalID: -8537610145633965483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_64
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 772
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9092bdffc7f823170800000000000000
+      internalID: 8156739642152659209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_65
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 772
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61048ad619edc62a0800000000000000
+      internalID: -6742769825889107946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_66
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 782
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660299f47366c9b10800000000000000
+      internalID: 1989577523135586406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_67
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 782
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042ecf0c4fce8f4a0800000000000000
+      internalID: -6559232321311153600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_68
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 784
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7ac8d374fbc0d40800000000000000
+      internalID: 5552022753337190351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_69
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 784
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34f3715fdb19c360800000000000000
+      internalID: 7190308926031918139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_70
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 766
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea21f66649051760800000000000000
+      internalID: 7427853358396943086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_71
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 766
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390d2733edc3db680800000000000000
+      internalID: -8737760776985325421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_72
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 772
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570a45aeb666d8010800000000000000
+      internalID: 1192722090001997941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_73
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 761
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b5da57fd775aba0800000000000000
+      internalID: -6078320320430908635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_74
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 761
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2db82d47d267270800000000000000
+      internalID: 8247829747347477218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_75
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 762
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9009a53759df0dcb0800000000000000
+      internalID: -4841090781096013815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_76
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 762
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374c7860a080854f0800000000000000
+      internalID: -839912491352341389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_77
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 762
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d9ae0e474c1d120800000000000000
+      internalID: 2436944879652871481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_78
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 762
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35732eb122d408b50800000000000000
+      internalID: 6593354663362443091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_79
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 762
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc9761c979cf7d40800000000000000
+      internalID: 5584403587735723261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_80
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 742
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd27218bd9facbf0800000000000000
+      internalID: -303155303734104623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_81
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 748
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6e87cbdbbc9f6f0800000000000000
+      internalID: -650264655407028541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_82
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 748
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959071a06019e1d80800000000000000
+      internalID: -8278019609935279783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_83
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 748
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a108e2cd94bc330800000000000000
+      internalID: 3732157926228368019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_84
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 734
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6702ec26f3c5cfb70800000000000000
+      internalID: 8934117188106592374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_85
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 734
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b46ae00871c516c0800000000000000
+      internalID: -4173216758533299016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_86
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 717
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d943e88dfbdf250800000000000000
+      internalID: 5980146817037540701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_87
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 724
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d11a5c928c2315b0800000000000000
+      internalID: -5398922588806573610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_88
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 724
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ec269102833fc70800000000000000
+      internalID: 9003601790559768088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_89
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 724
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e99394c138c8920800000000000000
+      internalID: 2993912009805373056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_90
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 695
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bf84a979386e3a0800000000000000
+      internalID: -6636472313732072584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_91
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 646
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402268151d9718250800000000000000
+      internalID: 5945166923028636164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_107
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 651
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f128a626cc3b1ce70800000000000000
+      internalID: 9133779209689924127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_108
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 651
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cebd7238535c790800000000000000
+      internalID: -7510537966144721844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_109
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 651
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f49941c1fbb2ce80800000000000000
+      internalID: -8159752927837580045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_110
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 650
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2824a373a5a36240800000000000000
+      internalID: 4783849350635989035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_111
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 650
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f0966721f6a3a30800000000000000
+      internalID: 4195788127935729544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_112
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 650
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667026445e3c79e10800000000000000
+      internalID: 2204445932083349350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_113
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 649
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251268852c484bb50800000000000000
+      internalID: 6608052523503067474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_114
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 649
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efea386347da6cfe0800000000000000
+      internalID: -1169056338613653762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_115
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 644
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416984ddf8df09840800000000000000
+      internalID: 5228957961711818260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_116
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 644
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10051c683cb25100800000000000000
+      internalID: 95345492645707803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_120
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 629
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15df72bd5a69a3e60800000000000000
+      internalID: 7942826531911892305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_121
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 629
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555dbff861bbbf530800000000000000
+      internalID: 3889908408743875925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_122
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 629
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dd77290a3ae63c0800000000000000
+      internalID: -4364371078828008142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_123
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 627
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3ce6ea77cd5fc00800000000000000
+      internalID: 933894904334959525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_124
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 627
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5478ad7a410cb5010800000000000000
+      internalID: 1178746922435512133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_125
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 627
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcbab1ef510db330800000000000000
+      internalID: 3728137577853271259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_126
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 626
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7787a2040fdd4220800000000000000
+      internalID: 2471876978813667198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_127
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 626
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86abd81399ef96c70800000000000000
+      internalID: 8964976467172506216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_128
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 622
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96bc7d401bead980800000000000000
+      internalID: -8513233690338478438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_129
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 622
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609a06b17c494d760800000000000000
+      internalID: 7481768463847958790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_130
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 603
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3829878327d0b8bb0800000000000000
+      internalID: -4932834182629387645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_131
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 603
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e38e564c6768ec0800000000000000
+      internalID: -3565031469121782156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_132
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 607
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67be672e2437b6060800000000000000
+      internalID: 6947773581253602166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_133
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 607
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e898dd30d8ae21340800000000000000
+      internalID: 4833183241498102158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_134
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 607
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccbc336716e4bca0800000000000000
+      internalID: -6001919415254467389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_135
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 605
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63486e60bcbd1b220800000000000000
+      internalID: 2500020933207950390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_136
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 605
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5859ffb0345f95460800000000000000
+      internalID: 7231080345032955269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_137
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 605
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3602fc56e5b51820800000000000000
+      internalID: 2888414737034511934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_138
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 604
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94bb5d3571c57840800000000000000
+      internalID: 5221292052290712731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_139
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 604
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572b024346c13c330800000000000000
+      internalID: 3729856133089768053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_140
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 599
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff59320cf3293b40800000000000000
+      internalID: 5420403191793147896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_141
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 599
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd54b0c4e7d96dd70800000000000000
+      internalID: 9067608065524319711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_144
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 583
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423958e764439ff30800000000000000
+      internalID: 4609773170965451556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_145
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 583
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebc2b60aed17d7d0800000000000000
+      internalID: -2893811344590320660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_146
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 583
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bb2a68f5b1b4320800000000000000
+      internalID: 2543156511675431725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_147
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 580
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b63c6c92a8d50950800000000000000
+      internalID: 6414771437179778737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_148
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 580
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a088d941d2bf964c0800000000000000
+      internalID: -4293624598683088886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_149
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 580
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ddde733b176a910800000000000000
+      internalID: 1848289711633587591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_150
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 580
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad002a8a97d04360800000000000000
+      internalID: 7151953267006639530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_151
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 580
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1a9ef6d08c73190800000000000000
+      internalID: -7982691854453202451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_152
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 574
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d4b6b28a4b79850800000000000000
+      internalID: 6383769631196925270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_153
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 574
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3cdf22f650616a0800000000000000
+      internalID: -6478985039039314991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_154
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 563
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46efca686ab2abc0800000000000000
+      internalID: -3773248580151679414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_155
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 563
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a737c0ad7158062b0800000000000000
+      internalID: -5593324399705164934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_156
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 562
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61b0b95b4deb2640800000000000000
+      internalID: 5056395914536595818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_157
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 562
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1f0e702af0f7180800000000000000
+      internalID: -9115549932183293500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_158
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 562
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a454862b57c3780800000000000000
+      internalID: -8701950970872640875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_159
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 557
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fea7f8845c2cb80800000000000000
+      internalID: -8375915441520185550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_160
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 557
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0177dbdd812173200800000000000000
+      internalID: 159616209803638544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_161
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 557
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d407a214eb99c7a0800000000000000
+      internalID: -6356377995188960043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_162
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 559
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf3686881a74af10800000000000000
+      internalID: 2280081557111062463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_163
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 559
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d5511da6e6753d0800000000000000
+      internalID: -3217982003679502994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_164
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 551
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b59c4b01de218fd0800000000000000
+      internalID: -2341538855883336263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_165
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 551
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e1562a357563a90800000000000000
+      internalID: -7334578926407836070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_166
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 539
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3600a48094c871220800000000000000
+      internalID: 2456586367053463651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_167
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 516
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e856fb34093fb0220800000000000000
+      internalID: 2453322222970824078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_168
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 493
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbc7d9f2986c8620800000000000000
+      internalID: 2777710050646936500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_169
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 444
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07f23babbb7621c0800000000000000
+      internalID: -4528796329313110258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_192
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 444
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fab868c55e7f5a0800000000000000
+      internalID: -6487464552646856898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_193
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 444
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e70303c10ddead0800000000000000
+      internalID: -2671250184474689985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_194
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 442
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea052cc5b83730b0800000000000000
+      internalID: -5749064045849933085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_195
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 442
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8676c536d6b896f0800000000000000
+      internalID: -677590712777804145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_202
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 413
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e58c04f2636d510800000000000000
+      internalID: 1573504696390803032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_203
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 413
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eca4fce8d307fd30800000000000000
+      internalID: 4465041785784413414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_204
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 413
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c08b92502c649ca0800000000000000
+      internalID: -6011060716552093502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_205
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 420
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f0238938ecc9b00800000000000000
+      internalID: 836770695373524795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_206
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 420
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56a9710cb3c0ab30800000000000000
+      internalID: 4296649256757470814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_207
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 417
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228f7b6176a508420800000000000000
+      internalID: 2630201581193656354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_208
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 417
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e622de894b7fc0c60800000000000000
+      internalID: 7785870210848596590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_209
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 400
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a849b818e380ec0800000000000000
+      internalID: -3600559175969240481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_210
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 400
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e980e26505233a0800000000000000
+      internalID: -6687194165622039034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_211
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 388
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8b5c94e1d39d380800000000000000
+      internalID: -8946051984498771730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_212
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 388
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3f7e74961e10160800000000000000
+      internalID: 6990115938949919741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_213
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 388
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91eeba397048494d0800000000000000
+      internalID: -3128730673038496231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_214
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 393
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f027824753a154e0800000000000000
+      internalID: -1994633564774784775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_215
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 393
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af27b7c7bf4b3f50800000000000000
+      internalID: 6862166107977363360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_216
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 391
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3100eaedcfa78c80800000000000000
+      internalID: -8320488487599996609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_217
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 391
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b632a3efd11703c70800000000000000
+      internalID: 8948776833218388843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_220
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 362
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00eeddab0b91ad40800000000000000
+      internalID: 5593922686634876943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_221
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 362
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b78f1dd1beff76d0800000000000000
+      internalID: -2990391587678222411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_222
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 362
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc43aa4712f01420800000000000000
+      internalID: 2598843166843161776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_223
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 365
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421298984028c8ac0800000000000000
+      internalID: -3851560625309671132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_224
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 365
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cfeb7069a484730800000000000000
+      internalID: 3983515878644710532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_225
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 363
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b12cdfd73c4f940800000000000000
+      internalID: 5329099204981824384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_226
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 363
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501701a977a6ce880800000000000000
+      internalID: -8580366128129216251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_227
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 349
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6927ea0b6c64c470800000000000000
+      internalID: 8413969210835151210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_232
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 349
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df304ecfda698ce0800000000000000
+      internalID: -1402472299478630446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_233
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 335
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01a6f0a22c368720800000000000000
+      internalID: 2848029933785489677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_234
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 335
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a31c6b27445af4e0800000000000000
+      internalID: -1947151224236403800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_235
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 335
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52381dd9fb572ae0800000000000000
+      internalID: -1574188416028364193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_236
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 336
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c3bb29565862c60800000000000000
+      internalID: 7793062876511157285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_237
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 336
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06386f87be0413af0800000000000000
+      internalID: -418481910277831840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_238
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 335
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71204c77a9e92d3f0800000000000000
+      internalID: -877464591112338921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_239
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 335
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc7105b5bf8da3b0800000000000000
+      internalID: -5499581559360881453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_240
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1d4a6c65d70d680800000000000000
+      internalID: -8732341865818041868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_241
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 307
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2402596f095c3410800000000000000
+      internalID: 1458138302087562284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_242
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 307
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528dd024bb241e040800000000000000
+      internalID: 4675091260221806629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_243
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 307
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696a2e80f181994a0800000000000000
+      internalID: -6586206458480515434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_244
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 282
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9397f468e7a3090800000000000000
+      internalID: -8053985868274648588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_246
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 250
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74106554d0dfca90800000000000000
+      internalID: -7291379661305539457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_248
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038a20b84b4ce8c60800000000000000
+      internalID: 7822405882494494768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_253
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 229
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f90e512463b91e20800000000000000
+      internalID: 3321883442800364024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_260
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 229
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be003356523c56e0800000000000000
+      internalID: -1847546400784511306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_261
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 229
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853cf0214cd0b6870800000000000000
+      internalID: 8677044242827166552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_271
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 200
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46373c67bea348c50800000000000000
+      internalID: 6666518131399422820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_272
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 200
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2731355009a7b350800000000000000
+      internalID: 6032476044780451631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_273
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 198
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1845a38166986380800000000000000
+      internalID: -8977760511598442468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_274
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 198
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9c71365949c3550800000000000000
+      internalID: 6141947361160055290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_281
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 168
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39612ddd1ed455e0800000000000000
+      internalID: -1921666921134986946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_282
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 168
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249c3d39f48cc40d0800000000000000
+      internalID: -3437152171482429118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_283
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 168
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01aefde3bdbb4f50800000000000000
+      internalID: 6866790637346136334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_284
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 172
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc684304acca5170800000000000000
+      internalID: 8168065878991596733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_285
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 172
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9103554fb099880800000000000000
+      internalID: -8603832469085480539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_286
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 173
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155f14c02670d38e0800000000000000
+      internalID: -1712204165637081775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_287
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 173
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d10586138d5b5ba0800000000000000
+      internalID: -6099178452743290410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_288
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 154
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b7b82ceaf383170800000000000000
+      internalID: 8158340744802433834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_289
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 154
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a213b0339cd6b6d0800000000000000
+      internalID: -2974947979096288603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_293
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 143
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8426b1ced7a58f0800000000000000
+      internalID: -550989551374284569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_294
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 143
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466763201fc845d80800000000000000
+      internalID: -8262824449565886876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_295
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 143
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b0b79414596f650800000000000000
+      internalID: 6266360039170837306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_296
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 145
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa39fb1ab7b825440800000000000000
+      internalID: 4923150705780298671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_297
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 145
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff04da96580f6c20800000000000000
+      internalID: 3201787028141510654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_298
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 147
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3786d9fa9edd231e0800000000000000
+      internalID: -2219467670596786061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_299
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 147
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e767d665029d670800000000000000
+      internalID: 8563911721997467289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_305
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 117
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe7997058788eb50800000000000000
+      internalID: 6622692257476214522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_306
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 117
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b57ebf4ae7d6e30800000000000000
+      internalID: 4498390849878973219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_307
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 117
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dbd34d318b65510800000000000000
+      internalID: 1537618718098308371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_308
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 117
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25af08507a454bed0800000000000000
+      internalID: -2399199625153021358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_309
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 117
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b3e0207a4a626c0800000000000000
+      internalID: -4168463367883834596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_310
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 119
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cd1419a03b326e0800000000000000
+      internalID: -1863448962833195933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_311
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 119
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf004841ef223f00800000000000000
+      internalID: 1094990304030756811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_312
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 103
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488044aae0781deb0800000000000000
+      internalID: -4696824439314839420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_317
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 103
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda440eb28e6499c0800000000000000
+      internalID: -3921387867720103203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_318
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 90
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532d9afeddd2f5e30800000000000000
+      internalID: 4494361384370950709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_319
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 90
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4dbe8b95988e280800000000000000
+      internalID: -9013803635734489912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_320
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 90
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa3d783f30a6e040800000000000000
+      internalID: 4676601456461953706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_321
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 88
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c4936be24a185a0800000000000000
+      internalID: -6520750264923108234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_322
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 88
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92140b926e0768230800000000000000
+      internalID: 3640721482619830569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_323
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 91
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b6d89b9c771b560800000000000000
+      internalID: 7327769776993692440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_324
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 91
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698a520f89768dba0800000000000000
+      internalID: -6063982991692683114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_325
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 69
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ca5773c8b902cd0800000000000000
+      internalID: -2584895159582479251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_326
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 62
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fffdc6f45f655b0800000000000000
+      internalID: -5379842983369638050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_327
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 62
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546277558c8f023a0800000000000000
+      internalID: -6692075506961537467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_328
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 62
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52aaf68e29338680800000000000000
+      internalID: -8754090378682260897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_329
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 36
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc29baffc70f7500800000000000000
+      internalID: 396043882077957296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulbasaur Ivysaur & Venusaur_alpha_342
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093181a1c0ba4b3f0800000000000000
+      internalID: -885895158219402352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

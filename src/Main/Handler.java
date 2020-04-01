@@ -12,6 +12,7 @@ import Resources.ScoreManager;
 
 import javax.sound.sampled.Clip;
 import java.util.ArrayList;
+import java.util.Random;
 
 
 /**
@@ -27,6 +28,8 @@ public class Handler {
     private Clip backgroundMusic;
     private MusicHandler musicHandler;
     private ArrayList<Clip> effects;
+
+    public static Random random = new Random();
 
     public Handler(GameSetUp game){
         this.game = game;
