@@ -10,7 +10,7 @@ import java.awt.*;
 public class Launch {
 
     public static void main(String[] args) {
-        GameSetUp game = new GameSetUp("Game Engine", Toolkit.getDefaultToolkit().getScreenSize().width, Toolkit.getDefaultToolkit().getScreenSize().height);
+        GameSetUp game = new GameSetUp("Pokemon Mystery Dungeon Java Rescue Team", Toolkit.getDefaultToolkit().getScreenSize().width, Toolkit.getDefaultToolkit().getScreenSize().height);
         game.start();
     }
 }
