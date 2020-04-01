@@ -16,7 +16,7 @@ public class Tile {
     BasePokemon pokemon = null;
     BaseItem item = null;
     protected TileInfo info;
-    int x, y;
+    public int x, y,width,height;
 
     public Tile(Handler handler, int type, BufferedImage sprite,int x, int y) {
         this.handler = handler;
@@ -24,13 +24,17 @@ public class Tile {
         this.x=x;
         this.y=y;
         info = new TileInfo(handler,x,y,type);
-        info.sprite=sprite;
         setUpInfo();
+        info.sprite=sprite;
+        this.width=info.getCorrectTile().getWidth();
+        this.height=info.getCorrectTile().getHeight();
     }
 
 
 
     public BufferedImage getCorrectTile(){
+        width=info.getCorrectTile().getWidth();
+        height=info.getCorrectTile().getHeight();
         return info.getCorrectTile();//well get back to this, itll be fun.... #connected texture and stuff
     }
 

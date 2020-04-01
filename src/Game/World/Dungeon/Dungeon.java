@@ -3,6 +3,7 @@ package Game.World.Dungeon;
 import Game.Quest.BaseQuest;
 import Main.Handler;
 
+import java.awt.*;
 import java.util.ArrayList;
 
 /**
@@ -11,17 +12,21 @@ import java.util.ArrayList;
 public class Dungeon {
 
     Handler handler;
-    Floor floor;
+    public Floor floor;
     public int floorsTotal;
     public int currentFloor;
     public ArrayList<BaseQuest> listOfQuest;
+    public String name;
+    int dificulty;
 
 
-    public Dungeon(Handler handler, int floorsTotal, ArrayList<BaseQuest> listOfQuest) {
+    public Dungeon(Handler handler, int floorsTotal, ArrayList<BaseQuest> listOfQuest,String name,int difficulty) {
         this.handler = handler;
         this.floorsTotal = floorsTotal;
         this.currentFloor = 0;
         this.listOfQuest = listOfQuest;
+        this.dificulty=difficulty;
+        this.name=name;
         generateFloor();
     }
 
@@ -29,8 +34,12 @@ public class Dungeon {
 
     private void generateFloor() {
 
-        floor = new Floor(handler);
+        floor = new Floor(handler,dificulty);
         currentFloor++;
+    }
+
+    public void render(Graphics g){
+        floor.render(g);
     }
 
 

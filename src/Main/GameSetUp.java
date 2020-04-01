@@ -1,7 +1,7 @@
 package Main;
 
 import Display.DisplayScreen;
-import Game.GameStates.GameState;
+import Game.GameStates.GameDungeonState;
 import Game.GameStates.MenuState;
 import Game.GameStates.PauseState;
 import Game.GameStates.State;
@@ -69,7 +69,7 @@ public class GameSetUp implements Runnable {
         handler = new Handler(this);
         handler.setDisplayScreen(display);
 
-        gameState = new GameState(handler);
+        gameState = new GameDungeonState(handler,"AppleWoods");
         menuState = new MenuState(handler);
         pauseState = new PauseState(handler);
 
@@ -83,7 +83,7 @@ public class GameSetUp implements Runnable {
 
 
     public void reStart(boolean clearScore){
-        gameState = new GameState(handler);
+        gameState = new GameDungeonState(handler,"AppleWoods");
         menuState = new MenuState(handler);
         pauseState = new PauseState(handler);
         if (clearScore){

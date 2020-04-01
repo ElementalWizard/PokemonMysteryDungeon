@@ -1,10 +1,12 @@
 package Main;
 
 import Display.DisplayScreen;
-import Game.GameStates.GameState;
+import Game.GameStates.GameDungeonState;
 import Game.GameStates.MenuState;
 import Game.GameStates.PauseState;
 import Game.GameStates.State;
+import Game.World.Dungeon.Dungeon;
+import Game.World.Dungeon.Floor;
 import Input.KeyManager;
 import Input.MouseManager;
 import Resources.MusicHandler;
@@ -28,6 +30,9 @@ public class Handler {
     private Clip backgroundMusic;
     private MusicHandler musicHandler;
     private ArrayList<Clip> effects;
+
+    private Dungeon currentDungeon;
+    private Floor currentFloor;
 
     public static Random random = new Random();
 
@@ -64,8 +69,8 @@ public class Handler {
 
     public void setDisplayScreen(DisplayScreen screen){this.screen=screen;}
 
-    public GameState getGameState (){
-        return (GameState)getGameProperties().gameState;
+    public GameDungeonState getGameState (){
+        return (GameDungeonState)getGameProperties().gameState;
     }
 
     public MenuState getMenuState (){
@@ -130,5 +135,25 @@ public class Handler {
 
     public void setEffects(ArrayList<Clip> effects) {
         this.effects = effects;
+    }
+
+    public Dungeon getCurrentDungeon() {
+        return currentDungeon;
+    }
+
+    public void setCurrentDungeon(Dungeon currentDungeon) {
+        this.currentDungeon = currentDungeon;
+    }
+
+    public Floor getCurrentFloor() {
+        return currentFloor;
+    }
+
+    public void setCurrentFloor(Floor currentFloor) {
+        this.currentFloor = currentFloor;
+    }
+
+    public String getdungeonName(){
+        return getCurrentDungeon().name;
     }
 }

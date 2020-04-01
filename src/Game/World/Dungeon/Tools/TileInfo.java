@@ -103,10 +103,10 @@ public class TileInfo {
     public void setSprite(){
         //check if were at border, not needed
 
-        Floor floor = new Floor(handler);//TODO change to actual floor
+        Floor floor = handler.getCurrentFloor();
 
         //trigger flags based on surrounding blocks, now here we get fun xD
-        ArrayList<ArrayList<Tile>> tiles = new ArrayList<>();//TODO change to actual tiles from floor
+        ArrayList<ArrayList<Tile>> tiles = floor.floorTiles;
 
         //actually better idea!
 
