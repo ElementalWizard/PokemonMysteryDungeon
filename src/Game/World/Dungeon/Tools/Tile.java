@@ -2,8 +2,10 @@ package Game.World.Dungeon.Tools;
 
 import Game.Entities.Dynamic.BasePokemon;
 import Game.Entities.Static.BaseItem;
+import Game.World.Dungeon.Floor;
 import Main.Handler;
 
+import java.awt.*;
 import java.awt.image.BufferedImage;
 
 /**
@@ -24,12 +26,19 @@ public class Tile {
         this.x=x;
         this.y=y;
         info = new TileInfo(handler,x,y,type);
-        setUpInfo();
         info.sprite=sprite;
         this.width=info.getCorrectTile().getWidth();
         this.height=info.getCorrectTile().getHeight();
     }
 
+    public void tick(){
+
+    }
+
+    public void render(Graphics g){
+        g.drawImage(getCorrectTile(),x+handler.getCurrentDungeon().xOffset,y+handler.getCurrentDungeon().yOffset,width,height,null);
+
+    }
 
 
     public BufferedImage getCorrectTile(){
@@ -68,7 +77,7 @@ public class Tile {
 
 
 
-    private void setUpInfo() {
+    public void setUpInfo(Floor floor) {
 
 
     }

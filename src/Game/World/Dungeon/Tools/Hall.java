@@ -1,9 +1,9 @@
 package Game.World.Dungeon.Tools;
 
+import Game.World.Dungeon.AppleWoods.AppleWoodTile;
 import Main.Handler;
 import Resources.Images;
 
-import java.awt.*;
 import java.util.ArrayList;
 
 /**
@@ -30,7 +30,87 @@ public class Hall {
         this.Entry = direction;
         tiles = new ArrayList<>();
         Direction = direction;
-        switch (direction){
+        if (root!=null) {
+            switch (direction) {
+                case "Up":
+                    if (exit == 0) {
+                        Exit = "Down";
+                    } else if (exit == 1) {
+                        Exit = "Left";
+                    } else if (exit == 2) {
+                        Exit = "Right";
+                    }
+                    break;
+                case "Down":
+                    if (exit == 0) {
+                        Exit = "Up";
+                    } else if (exit == 1) {
+                        Exit = "Left";
+                    } else if (exit == 2) {
+                        Exit = "Right";
+                    }
+                    break;
+                case "Left":
+                    if (exit == 0) {
+                        Exit = "Down";
+                    } else if (exit == 1) {
+                        Exit = "Up";
+                    } else if (exit == 2) {
+                        Exit = "Right";
+                    }
+                    break;
+                case "Right":
+                    if (exit == 0) {
+                        Exit = "Down";
+                    } else if (exit == 1) {
+                        Exit = "Left";
+                    } else if (exit == 2) {
+                        Exit = "Up";
+                    }
+                    break;
+            }
+
+            for (int i = 0; i < lenght; i++) {
+                if (handler.getCurrentDungeon().name.equals("AppleWoods")) {
+                    AppleWoodTile tile ;
+                    if (Direction.equals("Up")) {
+                        exitY -= (Images.appleWood.get(55).getWidth());
+                        tile =new AppleWoodTile(handler, 0, Images.appleWood.get(55), exitX, exitY);
+                        tiles.add(tile);
+                        root.floor.floorTiles.add(tile);
+
+                    } else if (Direction.equals("Down")) {
+                        exitY += (Images.appleWood.get(55).getWidth());
+                        tile =new AppleWoodTile(handler, 0, Images.appleWood.get(55), exitX, exitY);
+                        root.floor.floorTiles.add(tile);
+
+                    } else if (Direction.equals("Left")) {
+                        exitX -= (Images.appleWood.get(55).getWidth());
+                        tile =new AppleWoodTile(handler, 0, Images.appleWood.get(55), exitX, exitY);
+                        tiles.add(tile);
+                        root.floor.floorTiles.add(tile);
+
+                    } else if (Direction.equals("Right")) {
+                        exitX += (Images.appleWood.get(55).getWidth());
+                        tile =new AppleWoodTile(handler, 0, Images.appleWood.get(55), exitX, exitY);
+                        tiles.add(tile);
+                        root.floor.floorTiles.add(tile);
+                    }
+                    if (Handler.random.nextInt(30) == 1) {
+                        changeDirection();
+                    }
+
+                }
+            }
+        }
+
+
+    }
+
+    public void changeDirection(){
+        int exit = Handler.random.nextInt(3);
+        String Exit = "" ;
+        switch (Entry){//base it on entry to avoid going back and foward
             case "Up":
                 if (exit==0){
                     Exit ="Down";
@@ -39,6 +119,7 @@ public class Hall {
                 }else if (exit==2) {
                     Exit = "Right";
                 }
+
                 break;
             case "Down":
                 if (exit==0){
@@ -67,86 +148,14 @@ public class Hall {
                     Exit = "Up";
                 }
                 break;
-            }
-
-        for (int i = 1;i<lenght+1;i++){
-            if (handler.getCurrentDungeon().name.equals("AppleWoods")){
-                if (Direction.equals("Up")) {
-                    tiles.add(new Tile(handler, 0, Images.appleWood.get(55), exitX, exitY - i));
-                    exitY -=i;
-                }else if (Direction.equals("Down")) {
-                    tiles.add(new Tile(handler, 0, Images.appleWood.get(55), exitX, exitY + i));
-                    exitY+=i;
-                }else if (Direction.equals("Left")) {
-                    tiles.add(new Tile(handler, 0, Images.appleWood.get(55), exitX-i, exitY ));
-                    exitX-=i;
-                }else if (Direction.equals("Right")) {
-                    tiles.add(new Tile(handler, 0, Images.appleWood.get(55), exitX+i, exitY - i));
-                    exitX+=i;
-                }
-                if (Handler.random.nextInt(20)==1){
-                    changeDirection();
-                }
-
-            }
         }
+        Direction = Exit;
+    }
 
 
 
-        }
 
-        public void changeDirection(){
-        int exit = Handler.random.nextInt(3);
-        String Exit = "" ;
-            switch (Entry){//base it on entry to avoid going back and foward
-                case "Up":
-                    if (exit==0){
-                        Exit ="Down";
-                    }else if (exit==1){
-                        Exit ="Left";
-                    }else if (exit==2) {
-                        Exit = "Right";
-                    }
-
-                    break;
-                case "Down":
-                    if (exit==0){
-                        Exit ="Up";
-                    }else if (exit==1){
-                        Exit ="Left";
-                    }else if (exit==2) {
-                        Exit = "Right";
-                    }
-                    break;
-                case "Left":
-                    if (exit==0){
-                        Exit ="Down";
-                    }else if (exit==1){
-                        Exit ="Up";
-                    }else if (exit==2) {
-                        Exit = "Right";
-                    }
-                    break;
-                case "Right":
-                    if (exit==0){
-                        Exit ="Down";
-                    }else if (exit==1){
-                        Exit ="Left";
-                    }else if (exit==2) {
-                        Exit = "Up";
-                    }
-                    break;
-            }
-            Direction = Exit;
-        }
-
-        public void render(Graphics g){
-            for (Tile t:tiles){
-                g.drawImage(t.getCorrectTile(),t.x,t.y,t.width,t.height,null);
-            }
-        }
-
-    public void createRoom(int exitX, int exitY) {
+    public void createRoom(int exitX, int exitY,ArrayList<Room> rooms) {
         int roomWidth=0;
         int roomHeight=0;
         if (handler.getCurrentDungeon().name.equals("AppleWoods")){
@@ -155,16 +164,16 @@ public class Hall {
         }
         switch (Exit){//base it on entry to avoid going back and foward
             case "Up":
-                handler.getCurrentDungeon().floor.rooms.add(new Room(Handler.random.nextInt(roomWidth)+exitX,exitY+1,roomWidth,roomHeight,handler,root.totalRooms,root.roomsSoFar+1,this));
+                rooms.add(new Room(root.floor,Handler.random.nextInt(roomWidth)+ (exitX/Images.appleWood.get(0).getWidth()),(exitY)+Images.appleWood.get(0).getWidth(),roomWidth*Images.appleWood.get(0).getWidth(),roomHeight*Images.appleWood.get(0).getWidth(),handler,root.totalRooms,root.roomsSoFar+1,this,rooms));
                 break;
             case "Down":
-                handler.getCurrentDungeon().floor.rooms.add(new Room(Handler.random.nextInt(roomWidth)+exitX,exitY-roomHeight,roomWidth,roomHeight,handler,root.totalRooms,root.roomsSoFar+1,this));
+                rooms.add(new Room(root.floor,Handler.random.nextInt(roomWidth)+(exitX/Images.appleWood.get(0).getWidth()),exitY-(roomHeight*Images.appleWood.get(0).getWidth()),roomWidth*Images.appleWood.get(0).getWidth(),roomHeight*Images.appleWood.get(0).getWidth(),handler,root.totalRooms,root.roomsSoFar+1,this,rooms));
                 break;
             case "Left":
-                handler.getCurrentDungeon().floor.rooms.add(new Room(exitX-1,Handler.random.nextInt(roomHeight)+exitY,roomWidth,roomHeight,handler,root.totalRooms,root.roomsSoFar+1,this));
+                rooms.add(new Room(root.floor,exitX-Images.appleWood.get(0).getWidth(),Handler.random.nextInt(roomHeight)+(exitY/Images.appleWood.get(0).getWidth()),roomWidth*Images.appleWood.get(0).getWidth(),roomHeight*Images.appleWood.get(0).getWidth(),handler,root.totalRooms,root.roomsSoFar+1,this,rooms));
                 break;
             case "Right":
-                handler.getCurrentDungeon().floor.rooms.add(new Room(exitX+roomWidth,Handler.random.nextInt(roomHeight)+exitY,roomWidth,roomHeight,handler,root.totalRooms,root.roomsSoFar+1,this));
+                rooms.add(new Room(root.floor,exitX+(roomWidth*Images.appleWood.get(0).getWidth()),Handler.random.nextInt(roomHeight)+(exitY/Images.appleWood.get(0).getWidth()),roomWidth*Images.appleWood.get(0).getWidth(),roomHeight*Images.appleWood.get(0).getWidth(),handler,root.totalRooms,root.roomsSoFar+1,this,rooms));
                 break;
         }
     }

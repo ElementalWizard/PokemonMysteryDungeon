@@ -26,13 +26,13 @@ public class GameDungeonState extends State {
 
     @Override
     public void tick() {
-
+        dungeon.tick();
 
     }
 
     @Override
     public void render(Graphics g) {
-
+        dungeon.render(g);
 
     }
 

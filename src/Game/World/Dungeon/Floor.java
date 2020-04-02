@@ -2,12 +2,11 @@ package Game.World.Dungeon;
 
 import Game.Entities.Dynamic.BasePokemon;
 import Game.Entities.Static.BaseItem;
-import Game.World.Dungeon.Tools.Hall;
 import Game.World.Dungeon.Tools.Room;
 import Game.World.Dungeon.Tools.Tile;
 import Main.Handler;
+import Resources.Images;
 
-import java.awt.*;
 import java.util.ArrayList;
 
 /**
@@ -15,7 +14,7 @@ import java.util.ArrayList;
  */
 public class Floor {
 
-    public ArrayList<ArrayList<Tile>> floorTiles;
+    public ArrayList<Tile> floorTiles;
     Handler handler;
     public ArrayList<Room> rooms;
 
@@ -24,13 +23,13 @@ public class Floor {
 
     public int width,height;
 
-    public int minItems;
-    public int maxItems;
+    public int minItems=5;
+    public int maxItems=8;
     public int totalItems;
 
 
-    public int minPokemon;
-    public int maxPokemon;
+    public int minPokemon=3;
+    public int maxPokemon=6;
     public int totalPokemon;
 
 
@@ -58,37 +57,39 @@ public class Floor {
         totalPokemon = Handler.random.nextInt(maxPokemon) + minPokemon;
         totalItems = Handler.random.nextInt(maxItems) + minItems;
         this.dificulti = dificulty;
+        rooms = new ArrayList<>();
+        items = new ArrayList<>();
+        pokemons = new ArrayList<>();
+        floorTiles = new ArrayList<>();
         generateRoom();
     }
+
+
 
     public void generateRoom(){
 
 
         if (dificulti == 1){
-            minRooms = 5;
-            maxRooms = 9;
+            minRooms = 15;
+            maxRooms = 19;
             minHallLenght = 4;
             maxHallLenght = 15;
             minWidth = 4;
-            maxWidth = 9;
+            maxWidth = 12;
             minHeight=4;
-            maxHeight = 12;
+            maxHeight = 16;
             totalRooms = Handler.random.nextInt(maxRooms)+minRooms;
             totalHallLenght = Handler.random.nextInt(maxHallLenght)+minHallLenght;
 
-            width = Handler.random.nextInt(maxWidth)+minWidth;
-            height = Handler.random.nextInt(maxHeight)+minHeight;
-            int x = Handler.random.nextInt(4);
-            int y = Handler.random.nextInt(4);
-            rooms.add(new Room(x,y,width,height,handler,totalRooms,1,null));
+            width = (Handler.random.nextInt(maxWidth)+minWidth)*Images.appleWood.get(55).getWidth();
+            height = (Handler.random.nextInt(maxHeight)+minHeight)*Images.appleWood.get(55).getWidth();
+            int x = Handler.random.nextInt(4)* Images.appleWood.get(55).getWidth();
+            int y = Handler.random.nextInt(4)*Images.appleWood.get(55).getWidth();
+            rooms.add(new Room(this,x,y,width,height,handler,totalRooms,1,null,rooms));
 
         }
 
     }
 
-    public void render(Graphics g){
-        for (Room room:rooms){
-            room.render(g);
-        }
-    }
+
 }

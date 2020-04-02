@@ -2,8 +2,8 @@ package Game.World.Dungeon.Tools;
 
 import Game.World.Dungeon.Floor;
 import Main.Handler;
+import Resources.Images;
 
-import javax.print.attribute.HashAttributeSet;
 import java.awt.image.BufferedImage;
 import java.util.ArrayList;
 
@@ -33,11 +33,11 @@ public class TileInfo {
     public BufferedImage bottomLeft3;
     public BufferedImage topRight3;
     public BufferedImage topLeft3;
-    public BufferedImage[] bottomHalf5;
-    public BufferedImage[] topHalf5;
-    public BufferedImage[] leftHalf5;
-    public BufferedImage[] rightHalf5;
-    public BufferedImage[] fullySurrounded;
+    public ArrayList<BufferedImage> bottomHalf5;
+    public ArrayList<BufferedImage> topHalf5;
+    public ArrayList<BufferedImage> leftHalf5;
+    public ArrayList<BufferedImage> rightHalf5;
+    public ArrayList<BufferedImage> fullySurrounded;
 
     public BufferedImage DR2;
     public BufferedImage LR2;
@@ -88,8 +88,13 @@ public class TileInfo {
 
     public  BufferedImage sprite;
 
-    public boolean checkDirection(ArrayList<ArrayList<Tile>> tiles, int x, int y, int type){
-        return  tiles.get(x).get(y)!=null && tiles.get(x+1).get(y).type==type;
+    public boolean checkDirection(ArrayList<Tile> tiles, int x, int y, int type){
+        for (Tile tile:tiles){
+            if (tile.x/Images.appleWood.get(0).getWidth() == x && tile.y/Images.appleWood.get(0).getWidth() == y ){
+                return tile.type==type;
+            }
+        }
+        return  false;
     }
 
     public TileInfo(Handler handler,int x, int y,int type) {
@@ -97,18 +102,25 @@ public class TileInfo {
         this.x=x;
         this.y=y;
         this.type=type;
+        bottomHalf5 = new ArrayList<>();
+        topHalf5 = new ArrayList<>();
+        leftHalf5 = new ArrayList<>();
+        rightHalf5 = new ArrayList<>();
+        fullySurrounded = new ArrayList<>();
 
     }
 
-    public void setSprite(){
+
+    public void setSprite(Floor floor){
         //check if were at border, not needed
 
-        Floor floor = handler.getCurrentFloor();
-
         //trigger flags based on surrounding blocks, now here we get fun xD
-        ArrayList<ArrayList<Tile>> tiles = floor.floorTiles;
+        ArrayList<Tile> tiles = floor.floorTiles;
 
         //actually better idea!
+
+        int x=this.x/ Images.appleWood.get(0).getWidth();
+        int y=this.y/ Images.appleWood.get(0).getWidth();
 
         isR = checkDirection(tiles,x+1,y,type);
 
@@ -165,7 +177,7 @@ public class TileInfo {
         }
         else if (isL && isR && isD && !isT && isBL && isBR && !isTL && !isTR)
         {
-            sprite = bottomHalf5[Handler.random.nextInt( bottomHalf5.length)];
+            sprite = bottomHalf5.get(Handler.random.nextInt( bottomHalf5.size()));
         }
         else if (isL && !isR && isD && !isT && isBL && !isBR && !isTL && !isTR)
         {
@@ -174,15 +186,15 @@ public class TileInfo {
 
         else if (!isL && isR && isD && isT && !isBL && isBR && !isTL && isTR)
         {
-            sprite = rightHalf5[Handler.random.nextInt(rightHalf5.length)];
+            sprite = rightHalf5.get(Handler.random.nextInt(rightHalf5.size()));
         }
         else if (isL && isR && isD && isT && isBL && isBR && isTL && isTR)
         {
-            sprite = fullySurrounded[Handler.random.nextInt( fullySurrounded.length)];
+            sprite = fullySurrounded.get(Handler.random.nextInt( fullySurrounded.size()));
         }
         else if (isL && !isR && isD && isT && isBL && !isBR && isTL && !isTR)
         {
-            sprite = leftHalf5[Handler.random.nextInt( leftHalf5.length)];
+            sprite = leftHalf5.get(Handler.random.nextInt( leftHalf5.size()));
         }
 
         else if (!isL && isR && !isD && isT && !isBL && !isBR && !isTL && isTR)
@@ -191,7 +203,7 @@ public class TileInfo {
         }
         else if (isL && isR && !isD && isT && !isBL && !isBR && isTL && isTR)
         {
-            sprite = topHalf5[Handler.random.nextInt( topHalf5.length)];
+            sprite = topHalf5.get(Handler.random.nextInt( topHalf5.size()));
         }
         else if (isL && !isR && !isD && isT && !isBL && !isBR && isTL && !isTR)
         {
@@ -295,43 +307,61 @@ public class TileInfo {
         this.topLeft3 = topLeft3;
     }
 
-    public BufferedImage[] getBottomHalf5() {
+    public ArrayList<BufferedImage> getBottomHalf5() {
         return bottomHalf5;
     }
 
-    public void setBottomHalf5(BufferedImage[] bottomHalf5) {
+    public void setBottomHalf5(ArrayList<BufferedImage> bottomHalf5) {
         this.bottomHalf5 = bottomHalf5;
     }
 
-    public BufferedImage[] getTopHalf5() {
+    public void addBottomHalf5(BufferedImage bottomHalf5) {
+        this.bottomHalf5.add( bottomHalf5);
+    }
+
+    public void addTopHalf5(BufferedImage bottomHalf5) {
+        this.topHalf5.add( bottomHalf5);
+    }
+    public void addRightHalf5(BufferedImage bottomHalf5) {
+        this.rightHalf5.add( bottomHalf5);
+    }
+    public void addLeftHalf5(BufferedImage bottomHalf5) {
+        this.leftHalf5.add( bottomHalf5);
+    }
+    public void addFullySurroundedHalf5(BufferedImage bottomHalf5) {
+        this.fullySurrounded.add( bottomHalf5);
+    }
+
+
+    public ArrayList<BufferedImage> getTopHalf5() {
         return topHalf5;
     }
 
-    public void setTopHalf5(BufferedImage[] topHalf5) {
+    public void setTopHalf5(ArrayList<BufferedImage> topHalf5) {
         this.topHalf5 = topHalf5;
     }
 
-    public BufferedImage[] getLeftHalf5() {
+    public ArrayList<BufferedImage> getLeftHalf5() {
         return leftHalf5;
     }
 
-    public void setLeftHalf5(BufferedImage[] leftHalf5) {
+    public void setLeftHalf5(ArrayList<BufferedImage> leftHalf5) {
         this.leftHalf5 = leftHalf5;
     }
 
-    public BufferedImage[] getRightHalf5() {
+    public ArrayList<BufferedImage> getRightHalf5() {
         return rightHalf5;
     }
 
-    public void setRightHalf5(BufferedImage[] rightHalf5) {
+    public void setRightHalf5(ArrayList<BufferedImage> rightHalf5) {
         this.rightHalf5 = rightHalf5;
     }
 
-    public BufferedImage[] getFullySurrounded() {
+    public ArrayList<BufferedImage> getFullySurrounded() {
         return fullySurrounded;
     }
 
-    public void setFullySurrounded(BufferedImage[] fullySurrounded) {
+    public void setFullySurrounded(ArrayList<BufferedImage> fullySurrounded) {
         this.fullySurrounded = fullySurrounded;
     }
 
